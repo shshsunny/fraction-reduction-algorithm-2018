@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="794cbf99-9c93-4c66-a8a0-99ea34b814a9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Main_program$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1546077459076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v0.x/0.9" />
+    <SUITE FILE_PATH="coverage/Main_program$record.coverage" NAME="record Coverage Results" MODIFIED="1539694010504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0.8" />
+    <SUITE FILE_PATH="coverage/Main_program$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1539694182659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0.8" />
+    <SUITE FILE_PATH="coverage/Main_program$test.coverage" NAME="test Coverage Results" MODIFIED="1546079056216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/My Documents/Desktop" />
+    <SUITE FILE_PATH="coverage/Main_program$chart.coverage" NAME="chart Coverage Results" MODIFIED="1540731800809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0.9" />
+    <SUITE FILE_PATH="coverage/Main_program$Inviting_Billy.coverage" NAME="Inviting Billy Coverage Results" MODIFIED="1546077901279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/My Documents/Desktop" />
+    <SUITE FILE_PATH="coverage/Main_program$main.coverage" NAME="main Coverage Results" MODIFIED="1541932782280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0.9" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/v1.x/1.1/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="76" column="39" lean-forward="true" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v1.x/1.1/record.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="139" column="27" selection-start-line="139" selection-start-column="27" selection-end-line="139" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v1.x/1.1/chart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2499">
+              <caret line="151" column="33" selection-start-line="151" selection-start-column="33" selection-end-line="151" selection-end-column="33" />
+              <folding>
+                <element signature="e#59#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toInt</find>
+      <find>getValid</find>
+      <find>EtoC</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="D:/My Documents/Desktop/新建文本文档.py" />
+        <option value="$PROJECT_DIR$/0.7/main.py" />
+        <option value="$PROJECT_DIR$/0.7/Generate-new.py" />
+        <option value="$PROJECT_DIR$/0.7/Generate.py" />
+        <option value="$PROJECT_DIR$/../Raw algos/2.0/algo/FS.py" />
+        <option value="$PROJECT_DIR$/0.8/Testcases/chart.py" />
+        <option value="$PROJECT_DIR$/0.8/algos/__init__.py" />
+        <option value="$PROJECT_DIR$/0.8/te.py" />
+        <option value="$PROJECT_DIR$/0.8/record.py" />
+        <option value="$PROJECT_DIR$/0.8/chart.py" />
+        <option value="$PROJECT_DIR$/0.8/main.py" />
+        <option value="$PROJECT_DIR$/0.9/algos/te.py" />
+        <option value="D:/My Documents/Desktop/tmp.py" />
+        <option value="$PROJECT_DIR$/0.9/Generate.py" />
+        <option value="$PROJECT_DIR$/0.9/main.py" />
+        <option value="$PROJECT_DIR$/0.9/record.py" />
+        <option value="D:/My Documents/Desktop/Inviting Billy.py" />
+        <option value="$PROJECT_DIR$/0.9/chart.py" />
+        <option value="$PROJECT_DIR$/v0.x/0.9/main.py" />
+        <option value="D:/My Documents/Desktop/test.py" />
+        <option value="$PROJECT_DIR$/../devel info/Matplotlib Quick Start/testchat.py" />
+        <option value="$PROJECT_DIR$/v1.x/chart.py" />
+        <option value="$PROJECT_DIR$/v1.x/1.0/_io.py" />
+        <option value="$PROJECT_DIR$/v1.x/1.0/_IO.py" />
+        <option value="$PROJECT_DIR$/v1.x/1.0/interface.py" />
+        <option value="$PROJECT_DIR$/v1.x/1.0/Generate_2D.py" />
+        <option value="$PROJECT_DIR$/v1.x/1.0/chart.py" />
+        <option value="$PROJECT_DIR$/v1.x/1.0/main.py" />
+        <option value="$PROJECT_DIR$/v1.x/1.0/record.py" />
+        <option value="D:/My Documents/Desktop/tes.py" />
+        <option value="$PROJECT_DIR$/v1.x/1.1/Generate_2D.py" />
+        <option value="E:/Sunny's Blog/shshsunny.github.io/config.toml" />
+        <option value="$PROJECT_DIR$/v1.x/1.1/main.py" />
+        <option value="$PROJECT_DIR$/v1.x/1.1/record.py" />
+        <option value="$PROJECT_DIR$/v1.x/1.1/chart.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Main program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Main program" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Main program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Main program" type="462c0819:PsiDirectoryNode" />
+              <item name="v0.x" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Main program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Main program" type="462c0819:PsiDirectoryNode" />
+              <item name="v0.x" type="462c0819:PsiDirectoryNode" />
+              <item name="0.9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Main program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Main program" type="462c0819:PsiDirectoryNode" />
+              <item name="v1.x" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Main program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Main program" type="462c0819:PsiDirectoryNode" />
+              <item name="v1.x" type="462c0819:PsiDirectoryNode" />
+              <item name="1.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Main program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Main program" type="462c0819:PsiDirectoryNode" />
+              <item name="v1.x" type="462c0819:PsiDirectoryNode" />
+              <item name="1.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Main program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Main program" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Main program" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Main program" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="v0.x" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/0.8/main.py" />
+    <property name="recentsLimit" value="1" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Main program" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Main program" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Home Share\“玩转数学”约分算法项目 2018\Source\Main program\0.8" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Home Share\“玩转数学”约分算法项目 2018\Source\Main program\0.7" />
+      <recent name="D:\Home Share\“玩转数学”约分算法项目 2018\Source\Main program" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Main program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Main program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/v1.x/1.1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v1.x/1.1/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="794cbf99-9c93-4c66-a8a0-99ea34b814a9" name="Default Changelist" comment="" />
+      <created>1538055357145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538055357145</updated>
+      <workItem from="1546076990119" duration="372000" />
+      <workItem from="1546077420367" duration="1673000" />
+      <workItem from="1546084416615" duration="19000" />
+      <workItem from="1546084625664" duration="1304000" />
+      <workItem from="1546141919018" duration="1313000" />
+      <workItem from="1546145235647" duration="96000" />
+      <workItem from="1546145365299" duration="13000" />
+      <workItem from="1546153624614" duration="131000" />
+      <workItem from="1546156562266" duration="71000" />
+      <workItem from="1546159092949" duration="136000" />
+      <workItem from="1546163134692" duration="1322000" />
+      <workItem from="1546171689063" duration="93000" />
+      <workItem from="1546177274050" duration="2200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14814000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1374" height="736" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19568452" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30882353" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.27659574" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32962668" />
+      <window_info anchor="right" x="465" y="153" width="435" height="422" id="SciView" order="4" sideWeight="0.9294404" visible="true" weight="0.022692889" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="6" sideWeight="0.07055961" side_tool="true" weight="0.50378215" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19568452" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30882353" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.2777778" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32962668" />
+      <window_info anchor="right" x="465" y="153" width="435" height="422" id="SciView" order="4" sideWeight="0.9294404" visible="true" weight="0.022692889" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="6" sideWeight="0.07055961" side_tool="true" weight="0.50378215" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/0.7/Generate-new.py" />
+    <entry file="file://$PROJECT_DIR$/0.7/Generate.py" />
+    <entry file="file://$PROJECT_DIR$/../Raw algos/2.0/algo/RD.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Raw algos/2.0/algo/Euclidean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Raw algos/2.0/algo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Raw algos/2.0/algo/FS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.7/main.py" />
+    <entry file="file://$PROJECT_DIR$/0.8/record0.py" />
+    <entry file="file://$PROJECT_DIR$/0.8/update.log" />
+    <entry file="file://$PROJECT_DIR$/0.7/algos/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/0.7/chart.py" />
+    <entry file="file://$PROJECT_DIR$/0.8/algos/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/0.8/te.py" />
+    <entry file="file://$PROJECT_DIR$/0.8/chart.py" />
+    <entry file="file://$PROJECT_DIR$/0.8/main.py" />
+    <entry file="file://$PROJECT_DIR$/0.9/algos/te.py" />
+    <entry file="file://$PROJECT_DIR$/0.9/algos/FS.py" />
+    <entry file="file://$PROJECT_DIR$/0.8/Generate.py" />
+    <entry file="file://$PROJECT_DIR$/0.9/algos/RD.py" />
+    <entry file="file://D:/My Documents/Desktop/tmp.py" />
+    <entry file="file://$PROJECT_DIR$/0.9/algos/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/0.8/record.py" />
+    <entry file="file://$PROJECT_DIR$/0.1/main.py" />
+    <entry file="file://$PROJECT_DIR$/0.2/main.py" />
+    <entry file="file://$PROJECT_DIR$/0.6/main.py" />
+    <entry file="file://D:/My Documents/Desktop/Inviting Billy.py" />
+    <entry file="file://$PROJECT_DIR$/0.9/record.py" />
+    <entry file="file://$PROJECT_DIR$/0.9/Generate.py" />
+    <entry file="file://$PROJECT_DIR$/0.9/main.py" />
+    <entry file="file://$PROJECT_DIR$/0.9/chart.py" />
+    <entry file="file://D:/My Documents/Desktop/test.py" />
+    <entry file="file://$PROJECT_DIR$/v1.x/chart.py" />
+    <entry file="file://$PROJECT_DIR$/v0.x/0.9/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../devel info/Matplotlib Quick Start/testchat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="94" lean-forward="true" selection-start-line="12" selection-start-column="94" selection-end-line="12" selection-end-column="94" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1.x/1.0/Generate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-end-line="36" selection-end-column="20" />
+          <folding>
+            <element signature="e#49#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1.x/1.0/interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1.x/1.0/record.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+          <folding>
+            <element signature="e#81#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1.x/1.0/Generate_2D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <folding>
+            <element signature="e#26#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1.x/1.0/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="92" column="42" selection-start-line="92" selection-start-column="42" selection-end-line="92" selection-end-column="42" />
+          <folding>
+            <element signature="e#53#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1.x/二维网格测试用例格式：说明.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1.x/1.0/chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
+          <folding>
+            <element signature="e#59#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v0.x/0.9/chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="46" selection-start-line="46" selection-end-line="70" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Sunny's Blog/shshsunny.github.io/themes/hugo-w3-simple/theme.toml" />
+    <entry file="file://E:/Sunny's Blog/shshsunny.github.io/themes/hugo-theme-zen/i18n/en.toml" />
+    <entry file="file://$PROJECT_DIR$/v1.x/1.1/interface.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1.x/1.1/Generate_2D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Sunny's Blog/shshsunny.github.io/config.toml" />
+    <entry file="file://D:/My Documents/Desktop/tes.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1.x/1.1/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="76" column="39" lean-forward="true" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1.x/1.1/record.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="139" column="27" selection-start-line="139" selection-start-column="27" selection-end-line="139" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1.x/1.1/chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2499">
+          <caret line="151" column="33" selection-start-line="151" selection-start-column="33" selection-end-line="151" selection-end-column="33" />
+          <folding>
+            <element signature="e#59#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

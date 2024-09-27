@@ -1,0 +1,4 @@
+#----Version 0.1----#
+- 初步实现chart.py，能够绘制出algos.RD的算法运行时间模型
+- 编写完成Generate.py中的生成器函数fibo，并生成了测试用例文件fibo.txt
+- 初步使用QtDesigner设计测试面板

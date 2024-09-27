@@ -1,0 +1,2 @@
+pyinstaller3 -F --paths=C:\Python35\Lib\site-packages\PyQt5\Qt\bin 
+--paths=C:\Python35\Lib\site-packages\PyQt5\Qt\plugins  --hidden-import=PyQt5.sip main.py

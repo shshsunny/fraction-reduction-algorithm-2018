@@ -1,0 +1,15 @@
+#----Version 0.4----#
+- 删除无用的tester模块
+- 将chart.py重新架构，将原先的测试函数命名为alpha并添加beta函数
+- 主窗口添加测试函数选项
+#----Version 0.3----#
+- 主窗口修整并使之能够绘制多条算法曲线
+- 规范化窗口图例图示绘制
+#----Version 0.2----#
+- 优化chart.py，使其模块化，并且解决算法测速波动问题
+- 模块化Generate.py并制作简易指令终端
+- 完成基础测试程序GUI控制面板
+#----Version 0.1----#
+- 初步实现chart.py，能够绘制出algos.RD的算法运行时间模型
+- 编写完成Generate.py中的生成器函数fibo，并生成了测试用例文件fibo.txt
+- 初步使用QtDesigner设计测试面板
